@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197642276847",
+    "project_id": "imagevideo-bac29",
+    "storage_bucket": "imagevideo-bac29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197642276847:android:3c0d75c8a9afca32e9301a",
+        "android_client_info": {
+          "package_name": "com.example.image_video_picker_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197642276847-v3981ak5mqh918dtfh5otu5reim7f5jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3p3iT7GWKX98l9c-0pwMCdRIC11oT4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197642276847-v3981ak5mqh918dtfh5otu5reim7f5jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
